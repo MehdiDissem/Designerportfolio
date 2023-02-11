@@ -11,6 +11,9 @@ const Socials = ({ className }) => {
           {social.title}
         </Button>
       ))}
+      <a href="https://drive.google.com/file/d/1bmnrzxVJg0_GC_-0vRjo9bIyGX9OEses/view?usp=sharing" download="https://drive.google.com/file/d/1bmnrzxVJg0_GC_-0vRjo9bIyGX9OEses/view?usp=sharing">
+        <Button>Mon portfolio</Button>
+        </a>
     </div>
   );
 };

@@ -132,7 +132,13 @@ export default function Home() {
         <div className="mt-10 laptop:mt-40 p-2 laptop:p-0" ref={aboutRef}>
           <h1 className="tablet:m-10 text-2xl text-bold">About.</h1>
           <p className="tablet:m-10 mt-2 text-xl laptop:text-3xl w-full laptop:w-3/5">
-            {data.aboutpara}
+            {/* {data.aboutpara} */}
+            Actuellement et depuis toujours, le monde de création du visuel et de l'art de <b>graphisme</b> me semblait captivant. Je suis très passionnée par le monde de la communication et douée d'un bon sens artistique et d'une grande créativité, j'aime mon travail et je suis déterminée à atteindre rapidement mes objectifs. Enthousiaste, motivée et dynamique, je maîtrise le travail en équipe et je respecte les deadlines. Je travaille avec les logiciels de la suite Adobe <i>(Photoshop, Illustrator, Indesign, Lightroom). </i>
+   
+            Compétences Techniques : 
+            - Créativité artistique
+            - Ouverture d'esprit, adaptabilité
+            - Savoir-faire relationnel.
           </p>
         </div>
         <Footer />

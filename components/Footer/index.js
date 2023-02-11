@@ -11,13 +11,15 @@ const Footer = ({}) => {
           <h1 className="text-2xl text-bold">Contact.</h1>
           <div className="mt-10">
             <h1 className="text-3xl tablet:text-6xl laptop:text-6xl laptopl:text-8xl text-bold">
-              LET&apos;S WORK
+              TRAVAILLONS
             </h1>
             <h1 className="text-3xl tablet:text-6xl laptop:text-6xl laptopl:text-8xl text-bold">
-              TOGETHER
+            ENSEMBLE
             </h1>
-            <Button type="primary">Schedule a call</Button>
+            <Button type="primary">+216 21 963 450</Button>
+            <Button type="primary">bayabounattouf@gmail.com</Button>
             <div className="mt-10">
+              
               <Socials />
             </div>
           </div>
